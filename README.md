@@ -42,6 +42,26 @@ The project uses public secondary research, qualitative competitor comparisons, 
 
 This is an independent, hypothetical portfolio case study. It is not commissioned by, affiliated with, or endorsed by Nike. It does not use Nike's internal data, and its consumer segments, strategic hypotheses and financial assumptions have not been validated as actual Nike findings or forecasts.
 
+## Project Materials
+
+### 1. Market Research & Competitor Analysis
+- [Market Research Report](01_Market_Research_Analysis/)
+- [Competitor Analysis](01_Market_Research_Analysis/)
+
+### 2. Financial Model
+- [Financial Model & Scenario Analysis](02_Financial_Model/)
+
+### 3. Consulting Report
+- [Strategic Recommendations & Consulting Report](03_Consulting_Report/)
+
+### 4. Final Presentation
+- [Nike Gen Z India Strategy — Presentation](04_Final_Presentation/)
+
+## Disclaimer
+This is an independent, hypothetical consulting case study
+developed for academic and portfolio purposes. It is not
+affiliated with, commissioned by, or endorsed by Nike.
+
 ## Author
 
 **Tushar Verma**
